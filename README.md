@@ -1,4 +1,0 @@
-appfuse-demo
-============
-
-appfuse learn
